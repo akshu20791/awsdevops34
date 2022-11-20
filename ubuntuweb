@@ -1,0 +1,12 @@
+create a ubuntu machine
+
+
+sudo su
+
+apt update -y
+
+apt install apache2 -y
+
+service apache2 start
+
+copy the public ip and paste it in browser to see if it is running
