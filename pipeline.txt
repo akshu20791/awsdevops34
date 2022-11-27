@@ -1,0 +1,5 @@
+notes 1: (code commit) https://drive.google.com/drive/folders/1bTXBXqEE1bD_juj8IDKw665-LsxbeEBH?usp=share_link
+
+Notes 2: (code pipeline) https://drive.google.com/drive/folders/10aHhJDouXE__aJMFPnrG_dd1sypPaxWy?usp=share_link
+
+Notes 3:(code deploy) https://drive.google.com/drive/folders/18mgBgJQoDtI61Aza9JWTePadZsQtdkWA?usp=share_link
