@@ -1,0 +1,4 @@
+DOckers video: Devops topic: https://vimeo.com/686980999
+
+ECS and EC2: https://vimeo.com/705284284
+
